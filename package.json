@@ -1,8 +1,13 @@
 {
   "name": "new",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": null,
+  "keywords": [
+    "#hooks",
+    "#usereducer",
+    "#react",
+    "#usestate"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "@shopify/polaris": "3.13.0",
