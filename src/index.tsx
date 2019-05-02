@@ -8,4 +8,4 @@ import {
 } from "./components";
 
 const rootElement = document.getElementById("root");
-render(<LoginWithReducerAndContext />, rootElement);
+render(<LoginWithState />, rootElement);
